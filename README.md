@@ -1,6 +1,7 @@
 # 🌴 Wild Oasis – Hotel Management Dashboard
 
-A fully functional hotel management dashboard built with **React** and **Supabase**, designed to simplify guest booking and hotel operations.
+<!-- Add screenshots or a demo GIF here if available -->
+![Dashboard Screenshot](./src/data/img/The-wild-aosis.PNG)
 
 ## 📖 Description
 
@@ -20,7 +21,3 @@ Whether you're managing room availability or reviewing booking stats, Wild Oasis
 ## 🛠 Tech Stack
 - **Frontend:** React, Styled Components, React Hook Form, React Query, Context API  
 - **Backend:** Supabase (Database + Auth + API)  
-
-## 📸 Screenshots
-<!-- Add screenshots or a demo GIF here if available -->
-![Dashboard Screenshot](./src/data/img/The-wild-aosis.PNG)
