@@ -1,5 +1,5 @@
 # 🌴 Wild Oasis – Hotel Management Dashboard
-<br>
+
 <!-- Add screenshots or a demo GIF here if available -->
 ![Dashboard Screenshot](./src/data/img/The-wild-aosis.PNG)
 
