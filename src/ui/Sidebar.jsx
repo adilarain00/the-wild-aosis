@@ -18,6 +18,7 @@ function Sidebar() {
     <StyledSidebar>
       <Logo />
       <MainNav />
+
     </StyledSidebar>
   );
 }
